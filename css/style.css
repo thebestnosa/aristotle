@@ -1,0 +1,48 @@
+body {
+    background-color: black;
+    padding-left: 300px;
+    padding-right: 300px;
+    color: white;
+}
+
+
+.header {
+    text-align: center;
+    margin:10px;
+}
+
+.firstpara {
+
+    padding: 2px;
+    box-shadow: 4px 10px 30px 15px black;
+    margin: 10px;
+}
+
+.imagebox {
+    text-align: center;
+    padding: 40px;
+    margin: 10px;
+   border: 1px solid black;
+   margin-top: 30px;
+   border-radius: 10px;
+}
+
+.imagebox img {
+    border-radius: 50%;
+}
+
+.imagebox button {
+    background-color: white ;
+    border:none;
+    padding: 10px;
+    width: 100%;
+    color: black;
+}
+
+.lastpara {
+    text-align: center;
+}
+
+.insidelastpara {
+    text-align: left;
+}
